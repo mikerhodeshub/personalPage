@@ -3,17 +3,20 @@
         {
             "title": "Front-End Engineer",
             "tenure": "2.5 years",
-            "specialty": "Ingesting and Consuming Data"
+            "specialty": "Ingesting and Consuming Data",
+            "imgPath": "https://1drv.ms/i/s!AqyRM1ESaQbVh-Az5orBxR0gNDjuIQ?e=GHpCQh"
         },
         {
             "title": "Front-End Web Developer",
             "tenure": "1 year",
-            "specialty": "Ingesting and Consuming Data"
+            "specialty": "Ingesting and Consuming Data",
+            "imgPath": "https://1drv.ms/i/s!AqyRM1ESaQbVh-AyAemClfFghrqJwg?e=fp2tWM"
         },
         {
             "title": "Front-End Intern",
             "tenure": "1 year",
-            "specialty": "Ingesting and Consuming Data"
+            "specialty": "Ingesting and Consuming Data",
+            "imgPath": "https://1drv.ms/i/s!AqyRM1ESaQbVh-A0yhiYrIUKy-qKMQ?e=k6oBaa"
         }
     ]
 }
