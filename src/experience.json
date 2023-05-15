@@ -1,0 +1,19 @@
+{
+    "experience":[
+        {
+            "title": "Front-End Engineer",
+            "tenure": "2.5 years",
+            "specialty": "Ingesting and Consuming Data"
+        },
+        {
+            "title": "Front-End Web Developer",
+            "tenure": "1 year",
+            "specialty": "Ingesting and Consuming Data"
+        },
+        {
+            "title": "Front-End Intern",
+            "tenure": "1 year",
+            "specialty": "Ingesting and Consuming Data"
+        }
+    ]
+}

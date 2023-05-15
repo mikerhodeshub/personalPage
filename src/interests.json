@@ -1,0 +1,16 @@
+{
+   "interests": [
+        {
+            "name": "travel",
+            "photo": "www.example.com" 
+        },
+        {
+            "name": "travel",
+            "photo": "www.example.com" 
+        },
+        {
+            "name": "travel",
+            "photo": "www.example.com" 
+        }
+    ]
+}
